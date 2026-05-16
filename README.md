@@ -55,9 +55,6 @@ Built an interactive and insightful dashboard to help understand customer behavi
 ## Dashboard Preview
 (Add your Power BI dashboard screenshot here)
 
-## 🔗 GitHub Repository
-(Add your repository link here)
-
 ## Created By
 Riya Chavan  
 Data Science & Analytics Intern at Future Interns
